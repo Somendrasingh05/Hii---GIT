@@ -9,3 +9,5 @@ console.log(str[6]); // it will print p beacuse p is in 6th index
 console.log(str.length);
 i am a disco dancer hehe jindagi mera gana me kisi ka diwana
 to jhumo to nacho to nacho gao mere sang i am a disco dancer
+tune mere jana ye nahi jana pyaar mera ishq mera tere 
+tu meri meri meri sehrajawai ter apyaar pyaar pyaar huka baar baar baar huka baar
