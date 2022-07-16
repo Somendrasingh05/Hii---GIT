@@ -15,3 +15,4 @@ console.log(str.length);
 
 //slice method
 //slice(start, end) -> start index is exclusive  
+tu 
