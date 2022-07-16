@@ -7,7 +7,11 @@ console.log(str[4]); // it will print o because o is in 4th index
 console.log(str[6]); // it will print p beacuse p is in 6th index
 
 console.log(str.length);
-i am a disco dancer hehe jindagi mera gana me kisi ka diwana
-to jhumo to nacho to nacho gao mere sang i am a disco dancer
-tune mere jana ye nahi jana pyaar mera ishq mera tere 
-tu meri meri meri sehrajawai ter apyaar pyaar pyaar huka baar baar baar huka baar
+
+
+// var str = "Hello pepcoders";
+// // H e l l o <space> p e p c o  d  e   r  s        
+// // 0,1,2,3,4,   5,   6,7,8,9,10,11,12,13,14 
+
+//slice method
+//slice(start, end) -> start index is exclusive  
