@@ -63,7 +63,7 @@ let array2d = [
   ["BMW", 2, null,45],
   [4, true, 6],
   [7, "8", 9],
-  [7, "8", 9],
+  [7, "8", 10],
 ]; //array of arrays
 
 // array me -> contigous allocation of memory 
@@ -82,3 +82,4 @@ console.log(array2d[1].length); // number of columns in a 2d array
 // how to replace value in 2d array  
 array2d[1][1]=false;
 console.log(array2d);
+
