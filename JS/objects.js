@@ -41,4 +41,3 @@ let captainAmerica = {
 console.log(captainAmerica);
 console.log(captainAmerica.friends);
 console.log(captainAmerica.friends[0]); 
-its complicated
