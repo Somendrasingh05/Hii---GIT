@@ -34,7 +34,7 @@ let captainAmerica = {
         country: "USA"
     },
     sayHi: function () {
-        console.log(`Hello my name is ${captainAmerica.firstName}`);
+        console.log(`Hello my name is ${this.firstName}`);
     }
 };
 
@@ -45,3 +45,7 @@ captainAmerica.sayHi();
 
 // method -> object ke andar jo koi function banta he usko method bolte he
 console.log(str.toLocaleUpperCase());
+ek aad cheeje aur push kardu to aaj ka ye green green hojaye to dekhne
+me maza 
+hi maza aaye 
+is type me ki koi bohot badi project bani he 
