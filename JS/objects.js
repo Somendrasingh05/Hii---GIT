@@ -34,10 +34,11 @@ let captainAmerica = {
         country: "USA"
     },
     sayHi: function () {
-        console.log(`Hello my name is ${this.firstName}`);
+        console.log(`Hello my name is ${captainAmerica.firstName}`);
     }
 };
 
 console.log(captainAmerica);
 console.log(captainAmerica.friends);
 console.log(captainAmerica.friends[0]); 
+captainAmerica.sayHi();
