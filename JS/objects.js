@@ -45,7 +45,3 @@ captainAmerica.sayHi();
 
 // method -> object ke andar jo koi function banta he usko method bolte he
 console.log(str.toLocaleUpperCase());
-ek aad cheeje aur push kardu to aaj ka ye green green hojaye to dekhne
-me maza 
-hi maza aaye 
-is type me ki koi bohot badi project bani he 
