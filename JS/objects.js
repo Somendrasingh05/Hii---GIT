@@ -42,3 +42,6 @@ console.log(captainAmerica);
 console.log(captainAmerica.friends);
 console.log(captainAmerica.friends[0]); 
 captainAmerica.sayHi();
+
+// method -> object ke andar jo koi function banta he usko method bolte he
+console.log(str.toLocaleUpperCase());
