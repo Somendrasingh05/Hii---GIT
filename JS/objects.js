@@ -45,6 +45,4 @@ captainAmerica.sayHi();
 
 // method -> object ke andar jo koi function banta he usko method bolte he
 console.log(str.toLocaleUpperCase());
-aacha chalta hu duao me yaad rakhna jekara ajnasmxkmfscmsacsa,c,c,cpcel,,asla;;sloeqwert
-yu
-ioplkjhgfdsazxcvbnm
+
