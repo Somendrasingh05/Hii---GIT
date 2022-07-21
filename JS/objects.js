@@ -45,3 +45,4 @@ captainAmerica.sayHi();
 
 // method -> object ke andar jo koi function banta he usko method bolte he
 console.log(str.toLocaleUpperCase());
+dell is a laptop of my kond i am associated wirh dell is dell
